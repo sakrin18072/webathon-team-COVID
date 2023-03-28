@@ -1,0 +1,19 @@
+weather prediction
+farming tips
+info about farming from chatgpt
+present prices 
+// ------------------------------------ rates of crops(prediction of future prices)
+dealerships
+language of interface (google translate)
+------------(Later)     farming equipment deals
+-------------providing proper documentation about farming(info like which crop is most harvested in respective farming field)
+information about availability of storage units and their renting prices 
+location of storage units
+crop failure measures
+farmer to village head comms
+loan providers
+payment portal 
+
+
+http://172.20.10.2:3000
+http://172.20.10.2:3000
